@@ -10,5 +10,5 @@ cask "editaro" do
 
   app "Editaro.app"
 
-  zap trash: "~/Library/ApplicationSupport/Editaro"
+  zap trash: "~/Library/Application Support/Editaro"
 end
